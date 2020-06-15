@@ -1,4 +1,4 @@
-# LAB - Class 16
+# LAB - Class 17
 
 ## Topic: Event Driven Applications
 
@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-tommalieh/caps/pull/1)
+- [submission PR](https://github.com/401-advanced-javascript-tommalieh/caps/pull/2)
 
 ### Setup
 
@@ -15,6 +15,9 @@
 
 - e.g.
 - `node caps.js`
+- `node driver.js`
+- `node vendor.js`
+
 
 
 #### Tests
