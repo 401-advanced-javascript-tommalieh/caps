@@ -20,6 +20,6 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "faker": "^4.1.0",
-    "uuid": "^8.1.0"
+    "uuid": "^14.0.0"
   }
 }
